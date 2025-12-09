@@ -40,6 +40,7 @@ public class DemoApplication implements CommandLineRunner {
             System.out.println(notificationMap.getKey());
             notificationMap.getValue().noti();
         }
+        System.out.println("hello some chage");
        // System.out.println("welcome to spring boot application");
        // notification.noti();
     }
